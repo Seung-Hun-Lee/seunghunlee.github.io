@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Seunghun Lee**, a Ph. D. student at DGIST, under the guidance of Prof. [Sunghoon Im](https://sunghoonim.github.io/). I have been researching on domain adaptation and image-to-image translation, and currently, I am interested in object-centric video learning.
+I am **Seunghun Lee**, a Ph. D. student at DGIST, under the guidance of Prof. [Sunghoon Im](https://sunghoonim.github.io/).  I have previously conducted research on domain adaptation and image-to-image translation. Currently, I am interested in object-centric video learning.
 
 
 # 🔥 News
