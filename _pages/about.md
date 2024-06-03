@@ -24,7 +24,7 @@ I am **Seunghun Lee**, a Ph. D. student at DGIST, under the guidance of Prof. [S
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ADAS: A Direct Adaptation Strategy for Multi-Target Domain Adaptive Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_ADAS_A_Direct_Adaptation_Strategy_for_Multi-Target_Domain_Adaptive_Semantic_CVPR_2022_paper.html)
