@@ -85,7 +85,7 @@ Changjae Kim, **Seunghun Lee**, Sunghoon Im
 - *2021.12* 3rd place Prize at ICT Paper Contest. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Ph. D. course, Electrical Engineering and Computer Science, DGIST, Daegu. 
+- *2018.02 - present*, Ph. D. course, Electrical Engineering and Computer Science, DGIST, Daegu. 
 - *2015.02 - 2019.02*, Undergraduate, Convergence Engineering, DGIST, Daegu. 
 
 <!--
