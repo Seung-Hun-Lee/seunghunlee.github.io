@@ -80,7 +80,7 @@ Changjae Kim, **Seunghun Lee**, Sunghoon Im
 
 # 🎖 Honors and Awards
 - *2024.02* Participation prize, 30th HumanTech Paper Award, Samsung Electronics Co., Ltd.
-- *2022.08* Excellent Student Award, 2022 Student Conference, DGIST, EECS.
+- *2022.08* Outstanding Researcher Award, 2022 DGIST Student Conference, EECS.
 - *2022.02* Participation prize, 28th HumanTech Paper Award, Samsung Electronics Co., Ltd.
 - *2021.12* 3rd place Prize at ICT Paper Contest. 
 
@@ -88,10 +88,10 @@ Changjae Kim, **Seunghun Lee**, Sunghoon Im
 - *2018.02 - present*, Ph. D. course, Electrical Engineering and Computer Science, DGIST, Daegu. 
 - *2015.02 - 2019.02*, Undergraduate, Convergence Engineering, DGIST, Daegu. 
 
-<!--
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
+
+# 💬 Academic Activities
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
 
 # 💻 Internships
 - *2024.09 - 2024.12*, Stanford University, California, US.
