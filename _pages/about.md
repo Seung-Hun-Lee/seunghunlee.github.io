@@ -84,12 +84,12 @@ Changjae Kim, **Seunghun Lee**, Sunghoon Im
 - *2022.02* Participation prize, 28th HumanTech Paper Award, Samsung Electronics Co., Ltd.
 - *2021.12* 3rd place Prize at ICT Paper Contest. 
 
-# 📖 Educations
+# 🏫 Educations
 - *2018.02 - present*, Ph. D. course, Electrical Engineering and Computer Science, DGIST, Daegu. 
 - *2015.02 - 2019.02*, Undergraduate, Convergence Engineering, DGIST, Daegu. 
 
 
-# 💬 Academic Activities
+# 📖 Academic Activities
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 
