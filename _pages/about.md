@@ -92,8 +92,8 @@ Changjae Kim, **Seunghun Lee**, Sunghoon Im
 # 📖 Academic Activities
 + Reviewer
   - *2023 - 2024*, IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
-  - *2023 - 2024, Conference on Neural Information Processing Systems (NeurIPS)
-  - *2023 - 2024, IEEE International Conference on Computer Vision (ICCV)
+  - *2023 - 2024*, Conference on Neural Information Processing Systems (NeurIPS)
+  - *2023 - 2024*, IEEE International Conference on Computer Vision (ICCV)
   - *2024*, International Conference on Machine Learning (ICML)
   - *2024*, European Conference on Computer Vision (ECCV) 
 
