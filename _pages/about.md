@@ -25,6 +25,21 @@ I am **Seunghun Lee**, a Ph. D. student at DGIST, under the guidance of Prof. [S
 # 📝 Publications 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CAVIS: Context-Aware Video Instance Segmentation**
+
+**Seunghun Lee**, Jiwan Seo, Kiljoon Han, Minwoo Choi, Sunghoon Im
+
+[**Paper**](https://openaccess.thecvf.com/content/WACV2024/html/Kim_Offline-to-Online_Knowledge_Distillation_for_Video_Instance_Segmentation_WACV_2024_paper.html) \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -32,7 +47,7 @@ I am **Seunghun Lee**, a Ph. D. student at DGIST, under the guidance of Prof. [S
 
 Hojin Kim, **Seunghun Lee**, Hyeon Kang, Sunghoon Im
 
-[**Paper**](https://openaccess.thecvf.com/content/WACV2024/html/Kim_Offline-to-Online_Knowledge_Distillation_for_Video_Instance_Segmentation_WACV_2024_paper.html) \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+[**Paper**](https://openaccess.thecvf.com/content/WACV2024/html/Kim_Offline-to-Online_Knowledge_Distillation_for_Video_Instance_Segmentation_WACV_2024_paper.html)
 
 </div>
 </div>
@@ -45,7 +60,7 @@ Hojin Kim, **Seunghun Lee**, Hyeon Kang, Sunghoon Im
 
 Changjae Kim, **Seunghun Lee**, Sunghoon Im
 
-[**Paper**](https://papers.bmvc2023.org/0633.pdf) \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+[**Paper**](https://papers.bmvc2023.org/0633.pdf) 
 
 </div>
 </div>
@@ -59,7 +74,7 @@ Changjae Kim, **Seunghun Lee**, Sunghoon Im
 
 **Seunghun Lee**, Wonhyeok Choi, Changjae Kim, Minwoo Choi, Sunghoon Im
 
-[**Paper**](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_ADAS_A_Direct_Adaptation_Strategy_for_Multi-Target_Domain_Adaptive_Semantic_CVPR_2022_paper.html) \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) \| [**Code**](https://github.com/Seung-Hun-Lee/DRANet) 
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_ADAS_A_Direct_Adaptation_Strategy_for_Multi-Target_Domain_Adaptive_Semantic_CVPR_2022_paper.html) \| [**Code**](https://github.com/Seung-Hun-Lee/DRANet) 
 
 </div>
 </div>
@@ -72,7 +87,7 @@ Changjae Kim, **Seunghun Lee**, Sunghoon Im
 
 **Seunghun Lee**, Sunghyun Cho, Sunghoon Im
 
-[**Paper**](https://openaccess.thecvf.com/content/CVPR2021/html/Lee_DRANet_Disentangling_Representation_and_Adaptation_Networks_for_Unsupervised_Cross-Domain_Adaptation_CVPR_2021_paper.html) \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) \| [**Code**](https://github.com/Seung-Hun-Lee/DRANet)
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2021/html/Lee_DRANet_Disentangling_Representation_and_Adaptation_Networks_for_Unsupervised_Cross-Domain_Adaptation_CVPR_2021_paper.html) \| [**Code**](https://github.com/Seung-Hun-Lee/DRANet)
 
 </div>
 </div>
