@@ -27,11 +27,11 @@ I am **Seunghun Lee**, a Ph. D. student at DGIST, under the guidance of Prof. [S
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ADAS: A Direct Adaptation Strategy for Multi-Target Domain Adaptive Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_ADAS_A_Direct_Adaptation_Strategy_for_Multi-Target_Domain_Adaptive_Semantic_CVPR_2022_paper.html)
+**ADAS: A Direct Adaptation Strategy for Multi-Target Domain Adaptive Semantic Segmentation**
 
 **Seunghun Lee**, Wonhyeok Choi, Changjae Kim, Minwoo Choi, Sunghoon Im
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) \| [**Code**](https://github.com/Seung-Hun-Lee/DRANet)
+[**Paper**]((https://openaccess.thecvf.com/content/CVPR2022/html/Lee_ADAS_A_Direct_Adaptation_Strategy_for_Multi-Target_Domain_Adaptive_Semantic_CVPR_2022_paper.html) \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) \| [**Code**](https://github.com/Seung-Hun-Lee/DRANet)
 
 </div>
 </div>
@@ -40,11 +40,11 @@ I am **Seunghun Lee**, a Ph. D. student at DGIST, under the guidance of Prof. [S
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DRANet: Disentangling Representation and Adaptation Networks for Unsupervised Cross-Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2021/html/Lee_DRANet_Disentangling_Representation_and_Adaptation_Networks_for_Unsupervised_Cross-Domain_Adaptation_CVPR_2021_paper.html)
+**DRANet: Disentangling Representation and Adaptation Networks for Unsupervised Cross-Domain Adaptation**
 
 **Seunghun Lee**, Sunghyun Cho, Sunghoon Im
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) \| [**Code**](https://github.com/Seung-Hun-Lee/DRANet)
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2021/html/Lee_DRANet_Disentangling_Representation_and_Adaptation_Networks_for_Unsupervised_Cross-Domain_Adaptation_CVPR_2021_paper.html) \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) \| [**Code**](https://github.com/Seung-Hun-Lee/DRANet)
 
 </div>
 </div>
