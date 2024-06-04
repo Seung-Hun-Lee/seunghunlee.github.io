@@ -25,7 +25,7 @@ I am **Seunghun Lee**, a Ph. D. student at DGIST, under the guidance of Prof. [S
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Offline-to-Online Knowledge Distillation for Video Instance Segmentation**
@@ -38,7 +38,7 @@ Hojin Kim, **Seunghun Lee**, Hyeon Kang, Sunghoon Im
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Multi-Target Domain Adaptation with Class-Wise Attribute Transfer in Semantic Segmentation**
@@ -79,12 +79,14 @@ Changjae Kim, **Seunghun Lee**, Sunghoon Im
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.02* Participation prize, 30th HumanTech Paper Award, Samsung Electronics Co., Ltd.
+- *2022.08* Excellent Student Award, 2022 Student Conference, DGIST, EECS.
+- *2022.02* Participation prize, 28th HumanTech Paper Award, Samsung Electronics Co., Ltd.
+- *2021.12* 3rd place Prize at ICT Paper Contest. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.06 - 2022.04 (now)*, Ph. D. course, Electrical Engineering and Computer Science, DGIST, Daegu. 
+- *2015.02 - 2019.02*, Undergraduate, Convergence Engineering, DGIST, Daegu. 
 
 <!--
 # 💬 Invited Talks
