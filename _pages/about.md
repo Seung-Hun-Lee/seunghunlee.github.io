@@ -32,7 +32,9 @@ I am **Seunghun Lee**, a Ph. D. student at DGIST, under the guidance of Prof. [S
 
 **Seunghun Lee**, Jiwan Seo, Kiljoon Han, Minwoo Choi, Sunghoon Im
 
+<!--
 [**Paper**](https://openaccess.thecvf.com/content/WACV2024/html/Kim_Offline-to-Online_Knowledge_Distillation_for_Video_Instance_Segmentation_WACV_2024_paper.html) \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+-->
 
 </div>
 </div>
@@ -74,7 +76,7 @@ Changjae Kim, **Seunghun Lee**, Sunghoon Im
 
 **Seunghun Lee**, Wonhyeok Choi, Changjae Kim, Minwoo Choi, Sunghoon Im
 
-[**Paper**](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_ADAS_A_Direct_Adaptation_Strategy_for_Multi-Target_Domain_Adaptive_Semantic_CVPR_2022_paper.html) \| [**Code**](https://github.com/Seung-Hun-Lee/DRANet) 
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_ADAS_A_Direct_Adaptation_Strategy_for_Multi-Target_Domain_Adaptive_Semantic_CVPR_2022_paper.html) \| [**Code**](https://github.com/Seung-Hun-Lee/ADAS) 
 
 </div>
 </div>
