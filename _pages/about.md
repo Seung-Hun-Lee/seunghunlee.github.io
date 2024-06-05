@@ -40,7 +40,7 @@ I am **Seunghun Lee**, a Ph. D. student at DGIST, under the guidance of Prof. [S
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2024</div><img src='images/OOKD_WACV_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Offline-to-Online Knowledge Distillation for Video Instance Segmentation** <span style="color:red">(Oral)</span>
@@ -53,7 +53,7 @@ Hojin Kim, **Seunghun Lee**, Hyeon Kang, Sunghoon Im
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2023</div><img src='images/CWAT_BMVC_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Multi-Target Domain Adaptation with Class-Wise Attribute Transfer in Semantic Segmentation**
@@ -67,7 +67,7 @@ Changjae Kim, **Seunghun Lee**, Sunghoon Im
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/ADAS_CVPR_2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ADAS: A Direct Adaptation Strategy for Multi-Target Domain Adaptive Semantic Segmentation**
