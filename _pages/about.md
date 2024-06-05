@@ -47,7 +47,7 @@ I am **Seunghun Lee**, a Ph. D. student at DGIST, under the guidance of Prof. [S
 
 **Offline-to-Online Knowledge Distillation for Video Instance Segmentation** <span style="color:red">(Oral)</span>
 
-Hojin Kim, <U>**Seunghun Lee**</U>, Hyeon Kang, Sunghoon Im
+Hojin Kim, **<U>Seunghun Lee</U>**, Hyeon Kang, Sunghoon Im
 
 [**Paper**](https://openaccess.thecvf.com/content/WACV2024/html/Kim_Offline-to-Online_Knowledge_Distillation_for_Video_Instance_Segmentation_WACV_2024_paper.html)
 
@@ -60,7 +60,7 @@ Hojin Kim, <U>**Seunghun Lee**</U>, Hyeon Kang, Sunghoon Im
 
 **Multi-Target Domain Adaptation with Class-Wise Attribute Transfer in Semantic Segmentation**
 
-Changjae Kim, <U>**Seunghun Lee**</U>, Sunghoon Im
+Changjae Kim, **<U>Seunghun Lee</U>**, Sunghoon Im
 
 [**Paper**](https://papers.bmvc2023.org/0633.pdf) 
 
@@ -74,7 +74,7 @@ Changjae Kim, <U>**Seunghun Lee**</U>, Sunghoon Im
 
 **ADAS: A Direct Adaptation Strategy for Multi-Target Domain Adaptive Semantic Segmentation**
 
-<U>**Seunghun Lee**</U>, Wonhyeok Choi, Changjae Kim, Minwoo Choi, Sunghoon Im
+**<U>Seunghun Lee</U>**, Wonhyeok Choi, Changjae Kim, Minwoo Choi, Sunghoon Im
 
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_ADAS_A_Direct_Adaptation_Strategy_for_Multi-Target_Domain_Adaptive_Semantic_CVPR_2022_paper.html) \| [**Code**](https://github.com/Seung-Hun-Lee/ADAS) 
 
@@ -87,7 +87,7 @@ Changjae Kim, <U>**Seunghun Lee**</U>, Sunghoon Im
 
 **DRANet: Disentangling Representation and Adaptation Networks for Unsupervised Cross-Domain Adaptation**
 
-<U>**Seunghun Lee**</U>, Sunghyun Cho, Sunghoon Im
+**<U>Seunghun Lee</U>**, Sunghyun Cho, Sunghoon Im
 
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2021/html/Lee_DRANet_Disentangling_Representation_and_Adaptation_Networks_for_Unsupervised_Cross-Domain_Adaptation_CVPR_2021_paper.html) \| [**Code**](https://github.com/Seung-Hun-Lee/DRANet)
 
