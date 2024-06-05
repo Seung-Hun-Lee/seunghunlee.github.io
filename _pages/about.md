@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Seunghun Lee**, a Ph. D. student at DGIST, under the guidance of Prof. [Sunghoon Im](https://sunghoonim.github.io/).  I have previously conducted research on domain adaptation and image-to-image translation. Currently, I am interested in object-centric video learning such as video instance segmentation (VIS) and video object segmentation (VOS).
+I am **Seunghun Lee**, a Ph. D. student at DGIST, under the guidance of Prof. [Sunghoon Im](https://sunghoonim.github.io/).  I have previously conducted research on domain adaptation and image-to-image translation. Currently, I am interested in object-centric video tasks such as video instance segmentation (VIS) and video object segmentation (VOS).
 
 
 # 🔥 News
