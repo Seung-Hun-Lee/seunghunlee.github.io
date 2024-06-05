@@ -80,7 +80,7 @@ Changjae Kim, **Seunghun Lee**, Sunghoon Im
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/DRANet_CVPR_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DRANet: Disentangling Representation and Adaptation Networks for Unsupervised Cross-Domain Adaptation**
