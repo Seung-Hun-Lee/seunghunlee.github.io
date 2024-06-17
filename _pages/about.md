@@ -112,7 +112,9 @@ Changjae Kim, **<U>Seunghun Lee</U>**, Sunghoon Im
   - *2023 - 2024*, Conference on Neural Information Processing Systems (NeurIPS)
   - *2023 - 2024*, IEEE International Conference on Computer Vision (ICCV)
   - *2024*, International Conference on Machine Learning (ICML)
-  - *2024*, European Conference on Computer Vision (ECCV) 
+  - *2024*, European Conference on Computer Vision (ECCV)
++ Advanced Studies
+  - *2023*, International Computer Vision Summer School (ICVSS 2023)
 
 
 # 💻 Internships
