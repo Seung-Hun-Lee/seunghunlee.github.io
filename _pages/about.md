@@ -24,10 +24,8 @@ I am **Seunghun Lee**, a Ph. D. student at DGIST, under the guidance of Prof. [S
 
 # 📝 Publications 
 
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/CAVIS_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/CAVIS_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
--->
 
 **CAVIS: Context-Aware Video Instance Segmentation**
 
@@ -116,7 +114,7 @@ Changjae Kim, **<U>Seunghun Lee</U>**, Sunghoon Im
   - *2024*, European Conference on Computer Vision (ECCV)
   - *2024*, Pacific Graphics
 + Advanced Studies
-  - *2023*, International Computer Vision Summer School (ICVSS 2023)
+  - *2023*, International Computer Vision Summer School (ICVSS)
 
 
 # 💻 Internships
